@@ -11,7 +11,7 @@
 
 ### **Vectra Core — Ultra-Fast In-Memory Vector Search Engine & HNSW Graph Index in Java 21**
 
-[![GitHub Stars](https://badgen.net/github/stars/ronitgupta138/vectra-core?icon=github&color=0891b2)](https://github.com/ronitgupta138/vectra-core/stargazers)
+[![GitHub Stars](https://img.shields.io/github/stars/ronitgupta138/Vectra-Core?style=flat-square&logo=github&color=0891b2)](https://github.com/ronitgupta138/Vectra-Core/stargazers)
 [![Java](https://img.shields.io/badge/Java-21%20LTS-0891b2?style=flat-square&logo=openjdk&logoColor=white)](https://openjdk.org/projects/jdk/21/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.3.5-10b981?style=flat-square&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![Virtual Threads](https://img.shields.io/badge/Loom-Virtual%20Threads-0891b2?style=flat-square&logo=java&logoColor=white)](https://openjdk.org/projects/loom/)
