@@ -18,8 +18,11 @@
 [![Throughput](https://img.shields.io/badge/Throughput-16%2C900%2B%20QPS-10b981?style=flat-square)](https://github.com/ronitgupta138/vectra-core)
 [![Latency p50](https://img.shields.io/badge/Latency%20p50-0.28%20ms-0891b2?style=flat-square)](https://github.com/ronitgupta138/vectra-core)
 [![Tests](https://img.shields.io/badge/Tests-16%2F16%20Passed-10b981?style=flat-square)](https://github.com/ronitgupta138/vectra-core)
+[![XERJ Corpus Hub](https://hub.xerj.org/contributors/ronitgupta138/badge.svg)](https://hub.xerj.org/contributors/ronitgupta138)
 
 </div>
+
+> 🏛️ **Indexed by XERJ Corpus Hub**: **[`hub.xerj.org/contributors/ronitgupta138`](https://hub.xerj.org/contributors/ronitgupta138)** — In-memory HNSW graph indexing and SQ8 scalar quantization selected as an AI-native reference corpus for autonomous coding agents.
 
 ---
 
